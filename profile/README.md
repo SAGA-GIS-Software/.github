@@ -92,7 +92,7 @@ One named workspace, labeled modules, a quiet archive, and a short path back to 
 
 This contrast is the easiest way to explain SAGA GIS Software to someone new: less noise at the start of the day, clearer finish at the end.
 
-![SAGA GIS Software](https://i.sstatic.net/vdYxj.jpg)
+![SAGA GIS Software](https://static.wixstatic.com/media/d5a37e_2c777fc99e0b43839a057a9f80f39de9~mv2.png/v1/fill/w_980,h_519,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/d5a37e_2c777fc99e0b43839a057a9f80f39de9~mv2.png)
 
 ---
 
